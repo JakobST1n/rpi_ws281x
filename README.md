@@ -1,6 +1,9 @@
 rpi_ws281x
 ==========
 
+This is a fork of https://github.com/jgarff/rpi_ws281x, for Luxcena-Neo.
+Main changes are just to allow non-root to run the library.
+
 Userspace Raspberry Pi library for controlling WS281X LEDs.
 This includes WS2812 and SK6812RGB RGB LEDs
 Preliminary support is now included for SK6812RGBW LEDs (yes, RGB + W)
